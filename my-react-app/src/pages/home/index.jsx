@@ -12,8 +12,9 @@ const Homepage = () => {
     <div>
       <GlobalStyle />
       <Hero />
-      <Register />
+
       <Novidades />
+      <Register />
       <Trailer />
       <Personagens />
       <Footer />

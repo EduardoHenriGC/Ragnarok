@@ -4,7 +4,7 @@ import { Container } from "./styles";
 const Trailer = () => {
   return (
     <Container>
-      <div className="video_2">
+      <div className="video">
         <iframe
           width="100%"
           height="100%"
@@ -19,7 +19,7 @@ const Trailer = () => {
         </iframe>
       </div>
 
-      <div className="video_2">
+      <div className="video">
         <iframe
           width="100%"
           height="100%"

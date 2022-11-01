@@ -174,17 +174,21 @@ export const Container = styled.div`
       align-items: center;
 
       img {
-        height: 200px;
+        height: 300px;
       }
     }
   }
 
   @media (min-width: 779px) and (max-width: 1300px) {
     .modal-content {
-      top: 10%;
-      bottom: 10%;
+      top: 15%;
+      bottom: 15%;
       right: 10%;
       left: 10%;
+
+      img {
+        min-height: 270px;
+      }
     }
   }
 `;
