@@ -47,7 +47,7 @@ export const Container = styled.div`
 
     .btn-open {
       background-color: transparent;
-      color: #ffffff;
+      color: #fff;
       font-weight: 600;
       font-size: 1.1rem;
       cursor: pointer;
